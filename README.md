@@ -1,5 +1,6 @@
 # BUMP: Smart Location-Based Conversation Starter
 Bump up your connection with BUMP! Bump enables opportune friendships that were never possible before. Connect with people around you who share similar interests.
+
 <img width="428" alt="Screen Shot 2019-10-20 at 3 38 42 AM" src="https://user-images.githubusercontent.com/45777902/67168697-b7633980-f374-11e9-986e-1ee9da72f82f.png">
 
 
